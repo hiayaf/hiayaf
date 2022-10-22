@@ -7,6 +7,7 @@
         "python": "few months",
         "js": "few months",
         "html": "few months",
+        "php": "few months",
         "cpp": "few months",
         "game development": "few months",
         "graphics": "few years"
