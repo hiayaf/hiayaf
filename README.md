@@ -15,3 +15,12 @@
     }
 }
 ```
+## contact:
+
+```json
+{
+    "contact": {
+        "discord": "hiayaf#0007"
+    }
+}
+```
