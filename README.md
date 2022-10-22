@@ -5,6 +5,7 @@
 {
     "learning": {
         "python": "few months",
+        "java": "few months",
         "js": "few months",
         "html": "few months",
         "php": "few months",
