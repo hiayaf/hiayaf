@@ -20,7 +20,7 @@
 ```json
 {
     "contact": {
-        "discord": "hiayaf#0007"
+        "discord": "wojteko__"
     }
 }
 ```
